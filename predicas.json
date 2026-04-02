@@ -1,0 +1,21 @@
+{
+  "predicas": [
+    {
+      "titulo": "Nombre de la prédica",
+      "fecha": "03/04/2025",
+      "predicador": "Pastor Juan",
+      "audioUrl": "https://drive.google.com/uc?export=download&id=ID_DEL_ARCHIVO"
+    }
+  ]
+}
+```
+
+4. Click en **Commit changes** → **Commit changes** de nuevo
+
+---
+
+**PASO 3 - Obtener la URL del JSON**
+
+Una vez creado, la URL para usar en la app es:
+```
+https://raw.githubusercontent.com/TU_USUARIO/estacion-victoria-data/main/predicas.json
