@@ -1,21 +1,34 @@
 {
   "predicas": [
     {
-      "titulo": "Nombre de la prédica",
+      "titulo": "Prédica 1",
       "fecha": "03/04/2025",
-      "predicador": "Pastor Juan",
-      "audioUrl": "https://drive.google.com/uc?export=download&id=ID_DEL_ARCHIVO"
+      "predicador": "Pastor Omar",
+      "audioUrl": "https://drive.google.com/uc?export=download&id=1GCYdV-BtNIkOIvxjZ_A8nJ_hlNFUmIyU"
+    },
+    {
+      "titulo": "Prédica 2",
+      "fecha": "04/04/2025",
+      "predicador": "Pastor Omar",
+      "audioUrl": "https://drive.google.com/uc?export=download&id=1RMmF-ZY6yXSuHsw2O_6Xa_Tuy-H-eEhv"
+    },
+    {
+      "titulo": "Prédica 3",
+      "fecha": "05/04/2025",
+      "predicador": "Pastor Omar",
+      "audioUrl": "https://drive.google.com/uc?export=download&id=1Zp7_GGKHZHuyJ10Xyud1O58ARuC28mUJ"
+    },
+    {
+      "titulo": "Prédica 4",
+      "fecha": "06/04/2025",
+      "predicador": "Pastor Omar",
+      "audioUrl": "https://drive.google.com/uc?export=download&id=1HHytnKHjpsaPH1KOF1oyV5hjyakp1sGl"
+    },
+    {
+      "titulo": "Prédica 5",
+      "fecha": "07/04/2025",
+      "predicador": "Pastor Omar",
+      "audioUrl": "https://drive.google.com/uc?export=download&id=15NPpVF0d-HIH_9p3jSWobMWflAA-kNCg"
     }
   ]
 }
-```
-
-4. Click en **Commit changes** → **Commit changes** de nuevo
-
----
-
-**PASO 3 - Obtener la URL del JSON**
-
-Una vez creado, la URL para usar en la app es:
-```
-https://raw.githubusercontent.com/Luche77/estacion-victoria-data/main/predicas.json
