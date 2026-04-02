@@ -5,13 +5,9 @@
       "fecha": "03/04/2025",
       "predicador": "Pastor Omar",
       "audioUrl": "https://drive.google.com/uc?export=download&confirm=t&id=1GCYdV-BtNIkOIvxjZ_A8nJ_hlNFUmIyU"
-    },
-    {
-      "titulo": "Prédica 2",
-      "fecha": "04/04/2025",
-      "predicador": "Pastor Omar",
-      "audioUrl": "https://drive.google.com/uc?export=download&id=1RMmF-ZY6yXSuHsw2O_6Xa_Tuy-H-eEhv"
-    },
+    }
+  ]
+},
     {
       "titulo": "Prédica 3",
       "fecha": "05/04/2025",
