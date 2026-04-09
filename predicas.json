@@ -1,34 +1,5 @@
 {
   "predicas": [
-    {
-      "titulo": "Predica 1",
-      "fecha": "03/04/2025",
-      "predicador": "Pastor Omar",
-      "audioUrl": "https://res.cloudinary.com/dodg0673h/video/upload/v1775172309/Predica1_kvkjkg.mp3"
-    },
-    {
-      "titulo": "Predica 2",
-      "fecha": "04/04/2025",
-      "predicador": "Pastor Omar",
-      "audioUrl": "https://res.cloudinary.com/dodg0673h/video/upload/v1775172306/Predica2_orgqht.mp3"
-    },
-    {
-      "titulo": "Predica 3",
-      "fecha": "05/04/2025",
-      "predicador": "Pastor Omar",
-      "audioUrl": "https://res.cloudinary.com/dodg0673h/video/upload/v1775172297/Predica3_xp8jxi.mp3"
-    },
-    {
-      "titulo": "Predica 4",
-      "fecha": "06/04/2025",
-      "predicador": "Pastor Omar",
-      "audioUrl": "https://res.cloudinary.com/dodg0673h/video/upload/v1775172306/Predica4_v9qbg0.mp3"
-    },
-    {
-      "titulo": "Predica 5",
-      "fecha": "07/04/2025",
-      "predicador": "Pastor Omar",
-      "audioUrl": "https://res.cloudinary.com/dodg0673h/video/upload/v1775172303/Predica5_o3a4ci.mp3"
-    }
+  
   ]
 }
